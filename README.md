@@ -144,7 +144,11 @@ else "Very High Balance"
 
 - **Power BI Desktop** — data modeling, DAX measures, dashboard
 - **Power Query (M)** — data cleaning and feature engineering
-![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/8fba7b659c1377154a4255791c7b83d6d02b70c0/Credit%20Card%20Trans%20Report.png)
+![image alt](https://github.com/vnandini879/European-Bank/blob/e996cde5017dfa3a09ed8c27d66ae1fefd557a11/Churn%20Drivers.png)
+
+
+![image alt](https://github.com/vnandini879/European-Bank/blob/e996cde5017dfa3a09ed8c27d66ae1fefd557a11/Churn%20Drivers.png)
+
 
 
 ---
