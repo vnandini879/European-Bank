@@ -144,11 +144,16 @@ else "Very High Balance"
 
 - **Power BI Desktop** — data modeling, DAX measures, dashboard
 - **Power Query (M)** — data cleaning and feature engineering
-- *(Add here if applicable: Python/pandas for analysis, scikit-learn for a predictive model, Streamlit for an app)*
+![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/8fba7b659c1377154a4255791c7b83d6d02b70c0/Credit%20Card%20Trans%20Report.png)
+
+
+---
+
+### Author
+**Nandini Verma**
+*Data and Business Analyst*
+*[GitHub](https://github.com/vnandini879)*
+*[LinkedIn](https://www.linkedin.com/in/Analyst-kashishagrawal/)*
 - 
-
-## Author
-
-*Nandini Verma*
 
 
