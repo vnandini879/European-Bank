@@ -151,8 +151,8 @@ else "Very High Balance"
 **Churn Drivers**
 ![image alt](https://github.com/vnandini879/European-Bank/blob/e996cde5017dfa3a09ed8c27d66ae1fefd557a11/Churn%20Drivers.png)
 
-**Taable View**
-![image alt](
+**Table View**
+![image alt](https://github.com/vnandini879/European-Bank/blob/04632a324a4add8cad10da19242739d3224a2a4b/Table%20View.png)
 ---
 
 ### Author
