@@ -145,6 +145,8 @@ else "Very High Balance"
 - **Power BI Desktop** — data modeling, DAX measures, dashboard
 - **Power Query (M)** — data cleaning and feature engineering
 
+  ## Dashboard View
+
 **Overview**
 ![image alt](https://github.com/vnandini879/European-Bank/blob/aa2902d5ee25a66acb232d62a0f0ec9ec797e963/Overview.png)
 
@@ -152,6 +154,7 @@ else "Very High Balance"
 ![image alt](https://github.com/vnandini879/European-Bank/blob/e996cde5017dfa3a09ed8c27d66ae1fefd557a11/Churn%20Drivers.png)
 
 **Table View**
+
 ![image alt](https://github.com/vnandini879/European-Bank/blob/04632a324a4add8cad10da19242739d3224a2a4b/Table%20View.png)
 ---
 
